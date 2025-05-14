@@ -1,0 +1,4 @@
+{
+	"frontage": {"minimum": 13, "maximum": 20},
+	"depth": {"minimum": 30, "maximum":60}
+}
